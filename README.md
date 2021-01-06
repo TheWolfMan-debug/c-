@@ -1,2 +1,2 @@
-# c-
+# cpp
 c++_program
